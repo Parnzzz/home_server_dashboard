@@ -18,31 +18,20 @@ Server Management — Manage registered servers.
 
 Authentication — Secure access to the dashboard.
 
-Tech Stack
+Tech Stack   
 
-Technology
 
-Purpose
+Technology    Purpose
 
-Flutter
+Flutter      Frontend application
 
-Frontend application
+.NET / Go     Backend services
 
-.NET / Go
+PostgreSQL   Database
 
-Backend services
+Docker       Containerization
 
-PostgreSQL
-
-Database
-
-Docker
-
-Containerization
-
-GitHub Actions
-
-CI/CD
+GitHub Action   CI/CD
 
 Project Structure
 
