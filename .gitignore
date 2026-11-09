@@ -1,0 +1,30 @@
+# Local environment and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Go build outputs
+backend/*.exe
+backend/*.test
+backend/coverage.out
+
+# .NET build outputs
+**/bin/
+**/obj/
+**/.vs/
+**/.buildx/
+*.user
+*.suo
+
+# Flutter/Dart generated files
+**/.dart_tool/
+**/.pub-cache/
+**/.pub/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# Local logs and OS files
+**/*.log
+**/.DS_Store
+**/Thumbs.db

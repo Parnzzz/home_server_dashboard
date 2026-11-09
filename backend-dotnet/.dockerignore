@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.git/
+**/.env
+**/.env.*
+.buildx/
+Dockerfile*
+README.md
